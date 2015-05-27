@@ -1,2 +1,4 @@
-# departamentul-de-muzica
-Logo-ul Departamentului de Muzică AZS-MR.
+Departamentul de Muzică
+=======================
+
+Logo-ul Departamentului de Muzică [AZS-MR](http://www.azsmr.ro/).
